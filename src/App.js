@@ -5,7 +5,7 @@ import ColorSquare from './ColorSquare';
 function App() {
   return (
     <div className="App">
-      <ColorSquare />
+      <ColorSquare /> //
     </div>
   );
 }
